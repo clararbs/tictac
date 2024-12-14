@@ -1,0 +1,17 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: firebrick;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: firebrick;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+}
